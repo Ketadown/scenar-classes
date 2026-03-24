@@ -1,7 +1,6 @@
 public  class Main {
     static void main() {
-        /*
-        String Marque = "Peugeot";
+        /* String Marque = "Peugeot";
         int Modele = 208;
         int annee = 2021;
         int prix = 14500;
